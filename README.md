@@ -1,4 +1,4 @@
 - 👋 Hi, I’m PaK
 - 👀 I’m interested in coding, hardware, security
-- 🌱 I’m currently learning a master of Software Architecture
+- 🌱 I’m currently studying a master of Software Architecture
 - ⚡ My hobbies are climbing, homelab, custom keyboards
